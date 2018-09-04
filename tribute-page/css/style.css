@@ -1,0 +1,60 @@
+#header {
+  margin: 10px 10px 10px 10px;
+}
+
+#image {
+  max-width: 75%;
+  display: block;
+  height: auto;
+  margin: 50px auto 10px auto;
+}
+
+#subtitle {
+  font-style: italic;
+}
+
+#img-caption {
+  font-size: 12pt;
+}
+
+#tribute-info {
+  max-width: 55%;
+  margin: 10px auto 10px auto;
+  padding: 10px 10px 10px 10px;
+}
+
+#info-header {
+  font-weight: bold;
+  line-height: 1.6;
+}
+
+#info-bio {
+  margin-top: 20px;
+}
+
+ul#timeline {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  padding-left: 12px; 
+}
+
+li:before {
+  content: "-";
+  padding-right: 6px;
+}
+
+.centered {
+  text-align: center;
+}
+
+.date {
+  font-weight: bold;
+}
+
+.it {
+  font-style: italic;
+}
